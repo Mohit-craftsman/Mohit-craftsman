@@ -6,8 +6,7 @@
 
 <p align="center">
   <a href="mailto:mohitsihagg@gmail.com"><img src="https://img.shields.io/badge/Email-mohitsihagg%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/mohit-s-41bab13b9"><img src="https://img.shields.io/badge/LinkedIn-Mohit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Mohit-craftsman"><img src="https://img.shields.io/badge/GitHub-Mohit--craftsman-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/Mohit-craftsman"><img src="https://img.shields.io/badge/GitHub-Mohit--craftsman-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 </div>
