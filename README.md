@@ -70,15 +70,6 @@ Undergraduate student in Electronics Engineering. I build, test, and ship — th
 
 ---
 
-### GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-craftsman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohit's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-craftsman&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
----
-
 <div align="center">
   <sub>Mohit &bull; Undergraduate Student in Electronics Engineering</sub>
 </div>
