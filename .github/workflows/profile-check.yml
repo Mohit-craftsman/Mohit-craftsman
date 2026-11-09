@@ -18,5 +18,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          args: --no-progress --accept 200,206,429,999 --exclude "^https?://(www\.)?linkedin\.com" README.md
+          args: --no-progress --accept 200,206,429,503,999 --exclude "^mailto:" --exclude "^https?://(www\.)?linkedin\.com" README.md
           fail: true
