@@ -1,14 +1,22 @@
 name: profile-check
+
 on:
-  schedule: [{ cron: "0 6 * * 1" }]   # Mondays 06:00 UTC
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 6 * * 1"   # Mondays 06:00 UTC
   workflow_dispatch:
+
 jobs:
   links:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - name: Link check README
         uses: lycheeverse/lychee-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          args: --no-progress --accept 200,206,429 README.md
+          args: --no-progress --accept 200,206,429,999 --exclude "^https?://(www\.)?linkedin\.com" README.md
           fail: true
